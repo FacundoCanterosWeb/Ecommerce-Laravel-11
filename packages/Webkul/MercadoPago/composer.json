@@ -1,0 +1,8 @@
+{
+    "name": "webkul/mercadopago",
+    "autoload": {
+        "psr-4": {
+            "Webkul\\MercadoPago\\": "src/"
+        }
+    }
+}
